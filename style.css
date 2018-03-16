@@ -1,0 +1,21 @@
+.header{
+text-align:center;
+color:pink;
+}
+.center{
+text-align:center;
+color:green;
+
+} 
+body{
+background-image:url('images.jpg');
+background-size:cover;
+font-size:20px
+}
+.link{
+text-align:center;
+
+}
+.total{
+padding:12% 4% 5% 2%;
+}
